@@ -59,7 +59,6 @@
             <a href="#footer">Contact</a>
         </div>
         <div class="left-nav">
-            <img src="asst/search.png" alt="">
             <form action="{{ route('logout') }}" method="POST">
             @csrf
                 <button type="submit" class="btn" style="background-color: #36749E; color:white;">Sign Out</button>
@@ -259,7 +258,7 @@
             <div class="col-md-4" style="display: flex !important; flex-direction: column; width: auto !important;">
                 <h5 class="footer-title" style="font-size: 23px;">Contact Us</h5>
                 <a href="https://www.google.com/maps/place/Jl.+Kumbang+No.14,+RT.02%2FRW.06,+Babakan,+Kecamatan+Bogor+Tengah,+Kota+Bogor,+Jawa+Barat+16128/data=!4m2!3m1!1s0x2e69c5cdf40b5d27:0xbbb6f313d7f5d917?sa=X&ved=1t:242&ictx=111" class="contact-item"><i class="bi bi-geo-alt-fill"></i>Jl. Kumbang No.14, RT.02/RW.06, Babakan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16128</a>
-                <a href="https://wa.me/628588732221" class="contact-item"><i class="bi bi-telephone-fill"></i>+62 858 8732 221 (Admin)</a>
+                <a href="https://wa.me/6285183216894" class="contact-item"><i class="bi bi-telephone-fill"></i>+62 851 8321 6894 (Admin)</a>
                 <a href="mailto: genkiwebsite@gmail.com" class="contact-item"><i class="bi bi-envelope-fill"></i>genkiwebsite@gmail.com</a>
             </div>
             <!-- Social Handles Section -->
